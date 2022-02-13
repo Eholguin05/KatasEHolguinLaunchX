@@ -1,0 +1,21 @@
+Microsoft Windows [Versión 10.0.22000.434]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\eholg>py -m venv env
+
+C:\Users\eholg>cd env
+
+C:\Users\eholg\env>cd scripts
+
+C:\Users\eholg\env\Scripts>activate
+
+(env) C:\Users\eholg\env\Scripts>pip freeze
+python-dateutil==2.8.2
+six==1.16.0
+
+(env) C:\Users\eholg\env\Scripts>pip freeze
+python-dateutil==2.8.2
+six==1.16.0
+
+(env) C:\Users\eholg\env\Scripts>deactivate
+C:\Users\eholg\env\Scripts>
